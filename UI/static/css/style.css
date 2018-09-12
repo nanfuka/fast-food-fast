@@ -109,6 +109,12 @@ p,h1,h2,h3,h4,label,legend,.col4 li,table{
 .menu li.selected a{
 	color:#fff;
 }
+.page-title{
+    color: white;
+}
+.app-description{
+    color: black;
+}
 /**********End***********/
 
 /********Footer*********/
