@@ -14,8 +14,12 @@ Project Features
     -Mark orders as completed
 .A user should be able to see a history of ordered food
 
-GitHub Pages
+##GitHub Pages
 
-Go to [Maintenance-Tracker](https://nanfuka.github.io/fast-food-fast/UI/index.html)
+-Go to [Maintenance-Tracker](https://nanfuka.github.io/fast-food-fast/UI/index.html)
+
+Screen shots
+
+. Users can create an account and log in
 
 
