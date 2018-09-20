@@ -75,11 +75,16 @@ table, th, td {
             border: 1px solid black;
             border-collapse: collapse;
             text-align: center;
-            margin-left: 5%;
+            margin-left: 0%;
             margin-top: 5%;
             background-color: rgb(53, 10, 10);
             color: white;
+            width: 70%;
+           
             
+        }
+.id{
+    width: 1%;
         }
         p{
             text-align: center;
@@ -94,7 +99,7 @@ table, th, td {
             margin-left: 40%;
         }
         .foodorders{
-            margin-left: 25%;
+            margin-left: 0%;
             
         }
         .tabs{
@@ -235,4 +240,28 @@ table, th, td {
         button:active {
             position:relative;
             top:1px;
-        }    
+        } 
+       
+        #customers {
+            font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+            border-collapse: collapse;
+            width: 100%;
+        }
+        
+        #customers td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+        
+        #customers tr:nth-child(even){background-color: #f2f2f2;}
+        
+        #customers tr:hover {background-color: #ddd;}
+        
+        #customers th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+        }
+          

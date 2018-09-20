@@ -1,57 +1,40 @@
-<!DOCTYPE html>
 <html>
-
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>fast food fast</title>
-    <link rel="stylesheet" href="../static/css/general.css">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>fast food fast</title>
+    <link rel="stylesheet" href="../static/css/admin.css">
 </head>
-
-<body>
-    <div class="first">
+<div class="first">
 
         <ul>
+            
+           
+            <li><a href="html/user_dash.html">USER-PAGE</a></li>
             <li><a href="../index.html">LOGOUT</a></li>
-            <li><a href="user_dash.html">USER-PAGE</a></li>
-            <li><a href="admin.html">ADMIN-PAGE</a></li>
-            
-            <li><a href="signup.html">SIGNUP</a></li>
-            
-            <li><a  href="../index.html">HOME</a></li>
+            <li><a class="active" href="index.html">HOME</a></li>
         </ul>
     </div>
 
-    <div class="topp">
-        <p class="topp">FAST-FOOD-FAST APPLICATION</p>
-    </div>
+    <div class="first">
 
-    </div>
-    </div>
+            <ul>
+                
+               
+                <li><a href="#listoffood"> LIST OF ALL FOOD ITEMS</a></li>
+                <li><a href="#orderlist">LIST OF ALL ORDERS</a></li>
 
-    <div class="con">
-        <div class="admin">
-            <div class="topnav">
-                <div class="topnavi">
-                    <a class="active" href="#foodorders">list-of-orders</a>
-                    <a href="#tabs">view-all-food-items</a>
-
-                </div>
-                <div class="topnav-right">
-                    <h1>ALL ORDERS</h1>
-
-                </div>
-            </div>
+            </ul>
         </div>
-        <div>
 
-        </div>
-        <br><br>
-        <div class="tabs">
-            <p>LIST OF ALL FOOD ITEMS</p>
-            <table class="allfooditems">
+    
+
+    <table class = "customers">
+    
+            <p id "listoffood">LIST OF ALL FOOD ITEMS</p>
+            <table class="small">
                 <tr>
-                    <th>ID</th>
+                    <th class = "id">ID</th>
                     <th>FOOD-ITEMS</th>
                     <th>QUANTITIES</th>
                     <th>modify</th>
@@ -96,10 +79,10 @@
             </table>
             <p><button>add item</button></p><br><br>
 
-            <p>LIST OF ALL ORDERS</p>
-            <table class="foodorders">
+            <p id = "orderlist">LIST OF ALL ORDERS</p>
+            <table class="big">
                 <tr>
-                    <th>ID</th>
+                    <th class = "id">ID</th>
                     <th>Name</th>
                     <th>Date</th>
                     <th>FOOD-ITEMS</th>
