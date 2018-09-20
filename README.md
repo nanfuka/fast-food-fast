@@ -16,7 +16,7 @@ Project Features
 
 ##GitHub Pages
 
--Go to [Maintenance-Tracker](https://nanfuka.github.io/fast-food-fast/UI/index.html)
+-Go to [fast-food-fast](https://nanfuka.github.io/fast-food-fast/UI/index.html)
 
 Screen shots
 
