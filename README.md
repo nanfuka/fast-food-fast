@@ -2,7 +2,7 @@
 Fast-food-fast is a food delivery service app for a restaurant that facilitates  interaction between the restaurant users and administrator. The users should be able to  to reach out to the restaurant and make their food orders. they should also should be able to see a history of ordered foods.    The admin should be able to add, edit or delete the fast-food and  view the list of fast-food items. The administrator should also be able to view a list of orders, accept, decline orders or Mark orders as complete
 
 
-Project Features
+#Project Features
 
 . Users can create an account and log in
 . A user should be able to order for food
@@ -14,12 +14,11 @@ Project Features
     -Mark orders as completed
 .A user should be able to see a history of ordered food
 
-##GitHub Pages
+#GitHub Pages
 
 -Go to [fast-food-fast](https://nanfuka.github.io/fast-food-fast/UI/index.html)
 
 Screen shots
 
-. Users can create an account and log in
 
 
