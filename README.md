@@ -35,8 +35,12 @@ Clone the GitHub repo:
 2. Clone the repo `git clone ttps://github.com/nanfuka/fast-food-fast-UI.git`
 
 ## ScreenShots
+![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/index.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/login.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/signup.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/user_page.png)
+![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/admin_dashboard.png)
 
-![alt text](https://nanfuka.github.io/fast-food-fast-UI/UI/design/UI/UI_admin_dashboard.png)
 
 
 
