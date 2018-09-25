@@ -36,7 +36,7 @@ Clone the GitHub repo:
 
 ## ScreenShots
 
-![alt text](https://nanfuka.github.io/fast-food-fast/design/UI/UI_admin_dashboard.png)
+![alt text](https://nanfuka.github.io/fast-food-fast/UI/design/UI/UI_admin_dashboard.png)
 
 
 
